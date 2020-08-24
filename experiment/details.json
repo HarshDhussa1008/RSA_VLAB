@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Write a Java program to implement RSA Algoithm",     
+			"Lab": "Cryptography & Network Security",               
+			"Discipline": "B.Tech",				 
+			"Technology": "Information Technology"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Paras Nath Singh",         
+      "Institute": "United College of Engineering and Research",         
+      "InstituteAcronym": "UCER"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Harsh Dhussa",             
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Rishabh Shukla",              
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Kshitiz Saxena",             
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Akash Goswami",              
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       }
+   ]
+
+}
